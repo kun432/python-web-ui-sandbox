@@ -1,1 +1,1 @@
-# python-data-science-devcontainer-boilerplate
+# python-web-ui-sandbox
