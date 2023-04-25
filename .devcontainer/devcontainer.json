@@ -2,5 +2,13 @@
 	"dockerFile": "../Dockerfile",
 	"forwardPorts": [
 		8501
-	]
+	],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.vscode-pylance",
+				"GitHub.copilot"
+			]
+		}
+	}
 }
